@@ -67,19 +67,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=orizens&show_icons=true&theme=transparent&hide_border=true&count_private=true"
-    height="165"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=orizens&layout=compact&theme=transparent&hide_border=true"
-    height="165"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=orizens&theme=transparent&hide_border=true"
     alt="GitHub streak"
   />
