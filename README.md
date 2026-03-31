@@ -1,12 +1,11 @@
-<h1 align="center">Hi, I'm Oren Farhi 👋</h1>
+<p align="center">
+  <img src="./profile.png" alt="Oren Farhi banner" />
+</p>
 
 <p align="center">
   Experienced Software Engineer & Front-End Tech Lead focused on front-end architecture, maintainable systems, and high-quality applications.
 </p>
 
-<p align="center">
-  <a href="https://orizens.com"><img src="./orizens-bg.png" alt="Oren Farhi banner" /></a>
-</p>
 
 ## About me
 
