@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031" />
-  <img src="https://img.shields.io/badge/RxJS-222222?style=for-the-badge&logo=reactivex&logoColor=B7178C" />
-  <img src="https://img.shields.io/badge/ngrx-222222?style=for-the-badge&logo=redux&logoColor=764ABC" />
   <img src="https://img.shields.io/badge/PWA-222222?style=for-the-badge&logo=pwa&logoColor=5A0FC8" />
 </p>
 
