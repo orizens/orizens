@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://orizens.com"><img src="PASTE_YOUR_SITE_BACKGROUND_IMAGE_URL_HERE" alt="Oren Farhi banner" /></a>
+  <a href="https://orizens.com"><img src="//orencv.netlify.app/cv/images/orizens-bg.png" alt="Oren Farhi banner" /></a>
 </p>
 
 ## About me
@@ -44,4 +44,3 @@
 
 - Website: https://orizens.com
 - About: https://orizens.com/about/
-- CV: https://orizens.com/cv
