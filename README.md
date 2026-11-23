@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./og-image.webp" alt="Oren Farhi banner" style="border-radius: 1rem;" />
+  <img src="./og-image-new.webp" alt="Oren Farhi banner" style="border-radius: 1rem;" />
 </p>
 
 <p align="center">
